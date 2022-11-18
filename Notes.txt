@@ -7,6 +7,11 @@ So from this app we are redirecting requests to naming server
 custom routes:to redirect request using custom url from gateway to the naming server and also
 having the load balancer https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/learn/lecture/24346944#overview
 
+
+global filter
+to have a filter when a request is executed
+
+
 API GATEWAY
 After Api gate way
 http://localhost:8765/CURRENCY-EXCHANGE/currency-exchange/from/USD/to/INR
